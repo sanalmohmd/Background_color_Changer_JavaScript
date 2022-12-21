@@ -1,0 +1,28 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-items: center;
+    min-height: 100vh;
+
+}
+
+h2{
+    color: coral;
+    font-size: 40px;
+
+    text-transform: uppercase;
+
+}
+
+button{
+    font-size: 25px;
+    padding: 10px 20px ;
+
+    color: #fff;
+
+    background-color: #191716;
+
+
+
+}
